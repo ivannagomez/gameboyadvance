@@ -6,5 +6,5 @@ INSTRUCTIONS
 
 - In this game you can only move right to left, keep that in mind!
 
-- Once you catch all GREEN rectangles, the screen will turn green and that means YOU WOOOONNN!!!!
+- Once you catch all GREEN rectangles, the screen will turn green and that means YOU WOOOONNN!!!!!
 
