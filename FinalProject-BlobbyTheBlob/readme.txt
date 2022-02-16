@@ -1,5 +1,3 @@
-Note: Started implementing my bullets, but encountered some problems matching them to my sprites, 
-most of the code for bullets is done though :)
 
 INSTRUCTIONS
 - Press enter to start game, or select to read instructions.
