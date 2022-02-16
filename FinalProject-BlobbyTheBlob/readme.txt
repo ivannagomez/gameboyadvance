@@ -1,4 +1,4 @@
-Main files: 
+MAIN FILES: 
 game.c
 game.h
 game.i
@@ -8,7 +8,7 @@ myLib.c
 myLib.h
 myLib.i
 
-INSTRUCTIONS
+INSTRUCTIONS:
 - Press enter to start game, or select to read instructions.
 - In instructions, press select to go back to the start screen or enter to start the game.
 - In game, navigate with the arrows accordingly, press button A to shoot.
