@@ -1,3 +1,9 @@
+Main files: 
+main.c
+main.i
+myLib.c
+myLib.h
+myLib.i
 
 INSTRUCTIONS
 - Press enter to start game, or select to read instructions.
