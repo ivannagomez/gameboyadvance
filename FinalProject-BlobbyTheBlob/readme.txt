@@ -1,4 +1,7 @@
 Main files: 
+game.c
+game.h
+game.i
 main.c
 main.i
 myLib.c
